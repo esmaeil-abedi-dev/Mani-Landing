@@ -31369,3 +31369,6 @@ html {
   list-style: none;
   font-size: 0.88rem;
 }
+a:hover{
+  color: #f00
+}
