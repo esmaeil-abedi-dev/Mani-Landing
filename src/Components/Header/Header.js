@@ -10,14 +10,7 @@ export default function Header() {
       data-image-height="1180"
     >
       <div className="u-clearfix u-sheet u-sheet-1">
-        <a href="/" className="u-image u-logo u-image-1">
-          <img
-            src="/assets/images/Path21426.svg"
-            className="u-logo-image u-logo-image-1"
-            data-image-width="58"
-          />
-        </a>
-        {/*<Navigation /> */}
+        <Navigation />
         <div className="u-clearfix u-expanded-width u-gutter-34 u-layout-wrap u-layout-wrap-1">
           <div className="u-layout">
             <div className="u-layout-row">
